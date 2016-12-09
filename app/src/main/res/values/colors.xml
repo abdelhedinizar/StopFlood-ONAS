@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimary1">#17b3a0</color>
+
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainBg">#af23b36b</color>
+    <color name="rowBg">#af42c7d6</color>
+    <color name="niveau1">#af8ed642</color>
+    <color name="niveau2">#afce8c1b</color>
+    <color name="niveau3">#9dff0106</color>
+
+</resources>
